@@ -20,7 +20,6 @@ router.get("/:id", (req, res) => {
     Include: [
       {
         model: Product,
-        // attributes?
       },
     ],
   })
