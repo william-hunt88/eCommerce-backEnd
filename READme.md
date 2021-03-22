@@ -11,7 +11,7 @@
   * [License](#license)
   
   ### Project Description
-  The Mysql database and corresponsing api routes for a fictional internet store.
+  The Mysql database and corresponding api routes for a fictional internet store.
 
   ### Installation
   Clone this repo and run npm install.
