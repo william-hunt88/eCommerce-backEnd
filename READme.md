@@ -1,7 +1,5 @@
  # E-Commerce Backend
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
-
-  <img src = "" >
   
   ### Table of Contents
   * [Description](#project-description)
@@ -13,19 +11,16 @@
   * [License](#license)
   
   ### Project Description
-  da
+  The Mysql database and corresponsing api routes for a fictional internet store.
 
   ### Installation
   Clone this repo and run npm install.
 
   ### Usage
-  https://youtu.be/19Hg7pTLHb8
+  [![](http://img.youtube.com/vi/19Hg7pTLHb8/0.jpg)](http://www.youtube.com/watch?v=19Hg7pTLHb8 "vid-screenshot")
 
   ### Contributions
   Contributions are welcome!
-
-  ### Tests
-  N/A
 
   ### Questions
   wfh2d88@gmail.com <br> 
